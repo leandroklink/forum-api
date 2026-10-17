@@ -9,3 +9,9 @@ arquivo que recebe rotas http
 
 @Injectable(): são necessários nos provider para realizar a injeção
 
+
+- Criar modulo de autenticação
+    nest g module auth
+    nest g controller auth
+    nest g service auth
+ 
