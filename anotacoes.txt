@@ -1,0 +1,11 @@
+- para criar projeto
+npm i -g @nestjs/cli
+nest new aulaYT
+
+
+- controllers
+arquivo que recebe rotas http
+
+
+@Injectable(): são necessários nos provider para realizar a injeção
+
